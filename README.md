@@ -1,5 +1,8 @@
 Sistema de Alimentação de Galinhas - NutriAve V1.0
 
+![inicial](https://github.com/Cwbmachado/NutriAve/assets/107262755/4b4881f3-7b74-44f3-9579-ff25b1cff083)
+
+
 O NutriAve é uma aplicação desktop desenvolvida em C# utilizando Windows Forms. Seu principal objetivo é automatizar o processo de alimentação de galinhas , permitindo ao usuário abrir e fechar portas de um comendouro manualmente através de uma interface gráfica simples.
 
 Funcionalidades
